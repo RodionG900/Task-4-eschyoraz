@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590494910 source:c:\users\rodio\desktop\Таск4-new\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<stdlib.h>
+	<fstream>
+
